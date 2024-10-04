@@ -1,1 +1,1 @@
-# statesidepaneladmin.github.io
+# paneladmin.github.io
